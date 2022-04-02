@@ -8,19 +8,19 @@ $(document).ready(() => {
   const links = [
     {
     name: 'discord',
-    link: 'https://discord.com/users/328191967362154496'
+    link: 'https://discord.com/users/858301786813497354'
   },
     {
-	  name: 'youtube',
-	  link: 'https://www.youtube.com/channel/UCBa-pPjF5mO8hU_jTvJOHtA'
+	  name: 'insta',
+	  link: 'https://www.instagram.com/69.nev'
 	},
     {
-      name: 'ogu',
-      link: 'http://ogusers.com/fkyy',
+      name: 'smm.rip',
+      link: 'http://smm.rip/',
     },
     {
-      name: 'steam',
-      link: 'http://steamcommunity.com/id/kickturn',
+      name: 'tiktok',
+      link: 'http://tiktok.com/@ytbikes',
     },
   ];
 
@@ -40,7 +40,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger([' ', 'f','fl','fle','flea','fleak','fleaky', 'fleakyy', 'fleakyy#', 'fleakyy#5', 'fleakyy#57', 'fleakyy#577', 'fleakyy#5777', 'fleakyy#577', 'fleakyy#57', 'fleakyy#5', 'fleakyy#', 'fleakyy', 'fleaky', 'fleak', 'flea', 'fle', 'fl', 'f']);
+  app.titleChanger([' ', 'n','ne','nev','nev#','nev#7','nev#78', 'nev#7896', 'nev#789', 'nev#78', 'nev#7', 'nev#', 'nev', 'ne', 'n']);
   app.iconChanger(['assets/icons/crown.png', 'assets/icons/crown.png']);
 });
 
@@ -75,7 +75,7 @@ $('html').on('contextmenu', (event) => {
   img.src = 'assets/others/clown.png';
   img.width = 24;
   img.height = 24;
-  img.alt = 'fleakyy.wtf';
+  img.alt = 'd4rk.cf';
   img.style = `position: absolute; left: ${event.pageX}px; top: ${event.pageY}px; z-index: 10`;
   img.className = `troll ${trollfaceLight}`;
 
